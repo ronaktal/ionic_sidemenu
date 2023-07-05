@@ -1,0 +1,7 @@
+{
+  "name": "alleyez",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
